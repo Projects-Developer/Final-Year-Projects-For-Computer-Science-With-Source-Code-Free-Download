@@ -11,6 +11,16 @@ Final year projects for Computer Science with Source code free Download Includes
 
 5	Brain Tumor Detection using Deep Learning	https://youtu.be/-uzwKfRt6DU?si=1VwkAHc8nYmB4bNJ
 
+6	URL Phishing Detection System	https://youtu.be/nDxP_lJmVk4?si=UC_oWJWhMvClN0v_
+
+7	GIF Malware Detection Project	https://youtu.be/3JQ9uPETJCQ?si=bSzozeBaqbXHeMRD
+
+8	Malware Detection using Machine learning and Deep Learning Project	https://youtu.be/LdhoFN2ZTFM?si=T-YQX5vzTEfwrTiZ
+
+9	Virus Prediction Using Machine Learning	https://youtu.be/eUYSX3zV_-k?si=gGwZbo_8glpD4-od
+
+10	UPI Fraud Detection Using Machine Learning	https://youtu.be/uzVdxlG1gIY?si=oTXSkICVcrh4wt-K
+
 Project include:
 Synopsis
 
