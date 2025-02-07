@@ -21,7 +21,7 @@ Final year projects for Computer Science with Source code free Download Includes
 
 10	UPI Fraud Detection Using Machine Learning	https://youtu.be/uzVdxlG1gIY?si=oTXSkICVcrh4wt-K
 
-Project include:
+### Project include:
 Synopsis
 
 PPT
@@ -36,14 +36,9 @@ Documents
 
 Report
 
-Need Code, Documents & Explanation video ?
-
-How to Reach me :
-
-Mail : vatshayan007@gmail.com
-
-WhatsApp: +91 9310631437 (Helping 24*7) CHAT
-
-Website : https://www.finalproject.in/
-
-Youtube Channel: https://www.youtube.com/@computerscienceproject
+### Need Code, Documents & Explanation video ?
+### How to Reach me :
+### Mail : vatshayan007@gmail.com
+### WhatsApp: +91 9310631437 (Helping 24*7) CHAT
+### Website : https://www.finalproject.in/
+### Youtube Channel: https://www.youtube.com/@computerscienceproject
